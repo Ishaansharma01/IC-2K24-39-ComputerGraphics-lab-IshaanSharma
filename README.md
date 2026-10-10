@@ -24,11 +24,8 @@ IC-2K24-39-ComputerGraphics-lab-IshaanSharma/
 │   └── README.md
 │
 ├── CGM_Lab2/
-│   ├── ...
-│   └── README.md
-│
-├── CGM_Lab3/
-│   ├── ...
+│   ├── CGM_LabAssigment2_DDA
+│   ├── Screenshot.png
 │   └── README.md
 │
 └── README.md
